@@ -16,10 +16,6 @@ func calcBinary(input []rune, loMarker rune, hiMarker rune, iLo int, iHi int) in
 	return 0
 }
 
-func printSeatmap()  {
-	
-}
-
 func main() {
 	
 	inputMatrix := adventcommon.ParseCharMatrix("input.txt")
